@@ -14,7 +14,7 @@
  🔭 I’m currently working on: [Learning Flutter Widgets](https://github.com/Kobbleton/learned_flutter_widgets) 
   
 
- 🌱 I’m currently learning: **Flutter, Dart**
+ 🌱 I’m currently learning: **Flutter, Dart, UX/UI, Figma**
 
  👨‍💻 All of my projects are available at [https://github.com/Kobbleton](https://github.com/Kobbleton)
 
