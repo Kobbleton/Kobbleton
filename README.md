@@ -22,7 +22,7 @@
 
  📄 Know about my experiences [https://github.com/Kobbleton](https://github.com/Kobbleton)
 
- ⚡ Fact about me:    **I'm a music producer and a content - creator**
+ ⚡ Fact about me:    **I'm also a music producer and a content - creator**
 
  📝 My personal website [shastun.pro](https://shastun.pro)
 </div>
