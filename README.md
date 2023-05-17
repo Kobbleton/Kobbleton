@@ -11,10 +11,10 @@
   
 <div align="center">
 
- 🔭 I’m currently working on: [Learning Flutter Widgets](https://github.com/Kobbleton/learned_flutter_widgets) 
+ 🔭 I’m currently working on: Personal App Development Projects 
   
 
- 🌱 I’m currently learning: **Flutter, Dart, UX/UI, Figma**
+ 🌱 I’m currently learning: **Flutter, Dart, UX/UI, Figma, Data Analytics, Pandas, Tableau**
 
  👨‍💻 All of my projects are available at [https://github.com/Kobbleton](https://github.com/Kobbleton)
 
