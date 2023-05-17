@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitaly Shastun</h1>
-<h3 align="center">A Flutter Developer from Ukraine 🇺🇦</h3>
+<h3 align="center">A Flutter Developer/Data Analyst from Ukraine 🇺🇦</h3>
 
 ---
 
