@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalii Shastun</h1>
-<h3 align="center">Flutter Developer | Mobile UI/UX Specialist | with a mind for design & data</h3>
+<h3 align="center">Flutter Developer | Mobile UI/UX Specialist | With a Mind for Design & Data</h3>
 
 ---
 
