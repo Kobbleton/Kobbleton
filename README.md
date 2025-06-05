@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalii Shastun</h1>
-<h3 align="center">A Flutter Developer/Data Analyst from Ukraine 🇺🇦</h3>
+<h3 align="center">Flutter Developer | Mobile UI/UX Enthusiast | Data Nerd from 🇺🇦</h3>
 
 ---
 
@@ -26,6 +26,19 @@
 
  📝 My personal website [shastun.pro](https://shastun.pro)
 </div>
+
+<div align="center">
+
+### 📱 Featured Project: [BookFlow](https://github.com/Kobbleton/BookFlow)
+
+> A speed-reading Flutter app using the Spritz method, Firebase Auth, and custom animations.
+
+🎥 [Watch Demo](https://youtu.be/8kCLanLIhLU)  
+<br>
+<img src="https://github.com/Kobbleton/BookFlow/blob/main/screenshots/welcome.gif?raw=true" width="300" />
+
+</div>
+
 
 
   
