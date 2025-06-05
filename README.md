@@ -40,9 +40,6 @@
 - 🧠 **Harvard CS50** – Introduction to Computer Science
 - 🧪 **Google Data Analytics Professional Certificate** – Coursera
 - 📱 **Flutter Development Bootcamp (Udemy)** – with projects and Firebase
-- 📱 **Flutter Development Bootcamp (Udemy)** – with projects and Firebase  
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" height="20"/> 
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" height="20"/>
 - 🎨 **Figma for UI Design** 
 
 #### ✨ Highlights
