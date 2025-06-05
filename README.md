@@ -27,7 +27,8 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ### 🧠 Skills & Certifications
 
 #### 🛠 Technical Skills
@@ -45,7 +46,7 @@
 - Developed a real-world MVP ([BookFlow](https://github.com/Kobbleton/BookFlow)) using Flutter, Bloc, and Firebase
 - Proficient in mobile animations, navigation flows, and adaptive UI
 - Experience with UI polishing, prototyping, and visual storytelling
-
+</div>
 
 ---
 
@@ -65,8 +66,12 @@
 
   
   ---
-
+  
+<div align="center">
+  
   📄 [View My CV](https://yourlink.com) | [Notion Portfolio](https://notion.so/yourpage)
+  
+</div>
 
 ---
 
