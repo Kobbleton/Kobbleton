@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalii Shastun</h1>
-<h3 align="center">Flutter Developer | Mobile UI/UX Specialist |ith a mind for design & data</h3>
+<h3 align="center">Flutter Developer | Mobile UI/UX Specialist | with a mind for design & data</h3>
 
 ---
 
@@ -14,7 +14,7 @@
  🔭 I’m currently working on: Personal App Development Projects 
   
 
-🌱 I’m currently growing in: **Flutter, Dart, UI/UX, and mobile development best practices**  
+🌱 Deepening my expertise in: **Flutter, Dart, UI/UX, and modern mobile development** 
 📊 Past experience & certifications: **Google Data Analytics, Pandas, Tableau**
 
 👨‍💻 Explore all my projects and contributions: [github.com/Kobbleton](https://github.com/Kobbleton)
@@ -40,6 +40,9 @@
 - 🧠 **Harvard CS50** – Introduction to Computer Science
 - 🧪 **Google Data Analytics Professional Certificate** – Coursera
 - 📱 **Flutter Development Bootcamp (Udemy)** – with projects and Firebase
+- 📱 **Flutter Development Bootcamp (Udemy)** – with projects and Firebase  
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" height="20"/> 
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" height="20"/>
 - 🎨 **Figma for UI Design** 
 
 #### ✨ Highlights
@@ -69,7 +72,7 @@
   
 <div align="center">
   
-  📄 [View My CV](https://yourlink.com) | [Notion Portfolio](https://notion.so/yourpage)
+  📄 Coming soon: CV & Portfolio links
   
 </div>
 
