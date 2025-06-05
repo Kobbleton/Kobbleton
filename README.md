@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalii Shastun</h1>
-<h3 align="center">Flutter Developer | Mobile UI/UX Enthusiast | Data Nerd from 🇺🇦</h3>
+<h3 align="center">Flutter Developer | Mobile UI/UX Specialist |ith a mind for design & data</h3>
 
 ---
 
@@ -14,18 +14,40 @@
  🔭 I’m currently working on: Personal App Development Projects 
   
 
- 🌱 I’m currently learning: **Flutter, Dart, UX/UI, Figma, Data Analytics, Pandas, Tableau**
+🌱 I’m currently growing in: **Flutter, Dart, UI/UX, and mobile development best practices**  
+📊 Past experience & certifications: **Google Data Analytics, Pandas, Tableau**
 
- 👨‍💻 All of my projects are available at [https://github.com/Kobbleton](https://github.com/Kobbleton)
+👨‍💻 Explore all my projects and contributions: [github.com/Kobbleton](https://github.com/Kobbleton)
 
  📫 How to reach me **kobbleton@gmail.com**
-
- 📄 Know about my experiences [https://github.com/Kobbleton](https://github.com/Kobbleton)
 
  ⚡ Fact about me:    **I'm also a music producer and a content - creator**
 
  📝 My personal website [shastun.pro](https://shastun.pro)
 </div>
+
+---
+
+### 🧠 Skills & Certifications
+
+#### 🛠 Technical Skills
+- **Languages & Frameworks:** Dart, Flutter, Firebase Auth, REST APIs
+- **UI/UX & Design Tools:** Figma, Adobe Photoshop, DaVinci Resolve
+- **Other Tools:** Git, GitHub, VS Code, Android Studio
+
+#### 📚 Certifications
+- 🧠 **Harvard CS50** – Introduction to Computer Science
+- 🧪 **Google Data Analytics Professional Certificate** – Coursera
+- 📱 **Flutter Development Bootcamp (Udemy)** – with projects and Firebase
+- 🎨 **Figma for UI Design** 
+
+#### ✨ Highlights
+- Developed a real-world MVP ([BookFlow](https://github.com/Kobbleton/BookFlow)) using Flutter, Bloc, and Firebase
+- Proficient in mobile animations, navigation flows, and adaptive UI
+- Experience with UI polishing, prototyping, and visual storytelling
+
+
+---
 
 <div align="center">
 
@@ -43,6 +65,10 @@
 
   
   ---
+
+  📄 [View My CV](https://yourlink.com) | [Notion Portfolio](https://notion.so/yourpage)
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
